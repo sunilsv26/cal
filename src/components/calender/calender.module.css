@@ -1,0 +1,15 @@
+/* Calender */
+.calender {
+  background-color: var(--color1);
+  margin: auto;
+  color: var(--color2);
+}
+.calender td {
+  text-align: center;
+}
+
+/* Dates */
+.active_date {
+  color: var(--color1);
+  background-color: var(--color2);
+}
